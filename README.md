@@ -1,3 +1,9 @@
+# GrowthLens
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![Streamlit](https://img.shields.io/badge/streamlit-1.35%2B-red)
+
+> **GrowthLens** is an end-to-end Product Analytics platform that transforms high-volume e-commerce clickstream data into actionable business insights. It provides professional-grade modules for funnel tracking, cohort retention, growth accounting, and causal feature-impact analysis.
+
 ## Dashboard Demo
 https://github.com/user-attachments/assets/fb7d6617-6d67-466a-8dff-c662f1718014
 
@@ -16,13 +22,6 @@ graph TD
     F & G & H & I --> J[dashboard/app.py]
     J --> K[Streamlit UI]
 ```
-
-
-# GrowthLens
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![Streamlit](https://img.shields.io/badge/streamlit-1.35%2B-red)
-
-> **GrowthLens** is an end-to-end Product Analytics platform that transforms high-volume e-commerce clickstream data into actionable business insights. It provides professional-grade modules for funnel tracking, cohort retention, growth accounting, and causal feature-impact analysis.
 
 ## 📖 Table of Contents
 - [🚀 Overview](#-overview)

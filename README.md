@@ -5,8 +5,8 @@
 > **GrowthLens** is an end-to-end Product Analytics platform that transforms high-volume e-commerce clickstream data into actionable business insights. It provides professional-grade modules for funnel tracking, cohort retention, growth accounting, and causal feature-impact analysis.
 
 ## 📖 Table of Contents
-- [🎥 Dashboard Demo](#dashboard-demo)
-- [📷 Architecture Diagram](#architecture-diagram)
+- [🎥 Dashboard Demo](#-dashboard-demo)
+- [📷 Architecture Diagram](#-architecture-diagram)
 - [🚀 Overview](#-overview)
 - [✨ Key Features](#-key-features)
 - [🏗️ Architecture & Tech Stack](#%EF%B8%8F-architecture--tech-stack)

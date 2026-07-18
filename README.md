@@ -2,7 +2,7 @@
 
 **Funnel, retention, growth, and feature-impact analytics for an e-commerce clickstream dataset.**
 
-Built to map directly onto a Product Analyst job description bullet: *"Analyze user journeys, funnels, retention, growth metrics, and feature impact to drive product and business decisions."* Each of those five nouns is a module in this repo.
+An end-to-end Product Analytics platform that transforms e-commerce clickstream data into actionable business insights using Python, SQL, and Streamlit.
 
 ---
 ## ScreenShots 

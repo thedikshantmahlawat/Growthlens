@@ -3,10 +3,6 @@
 **Funnel, retention, growth, and feature-impact analytics for an e-commerce clickstream dataset.**
 
 An end-to-end Product Analytics platform that transforms e-commerce clickstream data into actionable business insights using Python, SQL, and Streamlit.
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![SQLite](https://img.shields.io/badge/SQLite-Database-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 
 ---
 ## ScreenShots 

@@ -5,6 +5,8 @@
 Built to map directly onto a Product Analyst job description bullet: *"Analyze user journeys, funnels, retention, growth metrics, and feature impact to drive product and business decisions."* Each of those five nouns is a module in this repo.
 
 ---
+## ScreenShots 
+![Demo Screenshot](images/demo.png)
 
 ## What's in here
 

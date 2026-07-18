@@ -18,10 +18,10 @@
 
 
 
-## Dashboard Demo
+## 🎥 Dashboard Demo
 https://github.com/user-attachments/assets/fb7d6617-6d67-466a-8dff-c662f1718014
 
-## Architecture Diagram
+## 📷 Architecture Diagram
 
 ```mermaid
 graph TD
